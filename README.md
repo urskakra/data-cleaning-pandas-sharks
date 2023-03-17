@@ -148,7 +148,7 @@ On the other hand, more research would need to be done on the data collection me
 
 There seems to be no significant difference in the number of _fatal_ attacks after the 1920s, which implies that the frequency of fatality in shark attacks has _decreased_.
 
-![Fatality of shark attacks by decade](/projects/project-1-pandas-UK/images/shark_attacks_decade_fatality.png)
+![Fatality of shark attacks by decade](/images/shark_attacks_decade_fatality.png)
 
 Looking closer at the frequency of fatal vs. non-fatal attacks, it can be concluded that there was a turn after the 1940s. Majority of shark attacks after that decade were not fatal anymore, compared to the decades before. 
 
