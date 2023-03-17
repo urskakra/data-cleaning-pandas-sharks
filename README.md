@@ -138,7 +138,7 @@ General names, like 'Pacific ocean' or 'Atlantic ocean' were defined as 'Other'.
 
 ## Visualization
 
-![Shark attacks by decade](/projects/project-1-pandas-UK/images/shark_attacks_decade.png)
+![Shark attacks by decade](/images/shark_attacks_decade.png)
 
 Data shows an increasing trend in global shark attacks throughout the years. The first substantial increase happened in the 1960s, and the second one in the 2000s.
 
@@ -154,7 +154,7 @@ Looking closer at the frequency of fatal vs. non-fatal attacks, it can be conclu
 
 With each subsequent decade, this trend has been futher decreasing. Finally, after 1980s, less than 15% of all shark attacks were fatal.
 
-![Shark attacks per month and hemisphere](/projects/project-1-pandas-UK/images/shark_attacks_month_hemisphere.png)
+![Shark attacks per month and hemisphere](/images/shark_attacks_month_hemisphere.png)
 
 Data from the Southern Hemisphere shows that most attacks happen in the months between Dec-Mar, and in the Northern Hemisphere during the months between Jun-Sep.
 
@@ -162,17 +162,17 @@ These are all summer months in the corresponding hemisphere, so it can be conclu
 
 Observing the whole year, for the months between Dec-Mar, overall there's more attacks in Southern Hemisphere, and for the months between Apr-Nov, there are more attacks in the Northern Hemisphere.
 
-![Shark attacks per area](/projects/project-1-pandas-UK/images/shark_attacks_area50.png)
+![Shark attacks per area](/images/shark_attacks_area50.png)
 
 Globally, the areas with most shark attacks are located in Florida (USA), NSW (Australia), KwaZulu-Natal (S.Africa), Hawaii (USA), Eastern Cape Province (S.Africa), and California (USA).
 
-![Shark attacks per country](/projects/project-1-pandas-UK/images/shark_attacks_country20.png)
+![Shark attacks per country](/images/shark_attacks_country20.png)
 
 Furthermore, looking at countries, by far most registered attacks happen in the USA, followed by Australia and South Africa.
 
 Eventhough the USA leads in number of shark attacks overall, the most fatal attacks have happened in Australia.
 
-![Frequency of fatality per country](/projects/project-1-pandas-UK/images/shark_attacks_country_fatality.png)
+![Frequency of fatality per country](/images/shark_attacks_country_fatality.png)
 
 Comparing fatality rates across the countries where at least 20 attacks were registered, some places have a higher rate of death-resulting attacks. 
 
@@ -180,19 +180,19 @@ In Mexico, approximately 50% of all attacks ended with fatality. And in Australi
 
 Only about 5% of all shark attacks in the USA end with fatality.
 
-![Shark attack distribution per victim age](/projects/project-1-pandas-UK/images/shark_attacks_age_dist.png)
+![Shark attack distribution per victim age](/images/shark_attacks_age_dist.png)
 
 Shark attacks happen more commonly, and are also more fatal among younger population. On average, population below 25 y.o. is most often affected.
 
-![Fatality per victim age and sex](/projects/project-1-pandas-UK/images/shark_attacks_age_sex.png)
+![Fatality per victim age and sex](/images/shark_attacks_age_sex.png)
 
 There were sustantially more victims and fatalities among the male population.
 
-![Fatality of shark attacks per acitivity](/projects/project-1-pandas-UK/images/shark_attacks_activity50.png)
+![Fatality of shark attacks per acitivity](/images/shark_attacks_activity50.png)
 
 Surfing is the activity involved in most of the shark attacks overall. However, swimming is the activity that results in most fatal attacks.
 
-![Frequency of fatal shark attacks per acitivity](/projects/project-1-pandas-UK/images/shark_attacks_activity_fatality.png)
+![Frequency of fatal shark attacks per acitivity](/images/shark_attacks_activity_fatality.png)
 
 Comparing fatality rates across activities where at least 50 attacks were registered, we can conclude that swimming is the most fatal one, with almost 40% of all attacks resulting in death.
 
